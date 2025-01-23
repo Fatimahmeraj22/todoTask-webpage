@@ -1,0 +1,13 @@
+body {
+    background-color: #3270af;
+}
+
+h1 {
+    color: #7059e0;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
